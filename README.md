@@ -1,10 +1,10 @@
 # README for Numbers Script
 
 ## Author Information
-- **Name:** [Your Full Name]  
-- **Course:** [Course Number and Name]  
+- **Name:** Oliver Shepherd
+- **Course:** CPSC 298 - Computer Science Colloquium: Introduction to *Nix 
 - **Assignment:** Numbers Script (Odd/Even Classification)  
-- **Date:** [Date of Completion]  
+- **Date:** 10/22/2025
 
 ## Program Description
 This script prompts the user to enter a positive integer and then prints all integers from **1** up to and including that number. Each number is labeled as **“Odd”** or **“Even.”**  
@@ -75,11 +75,8 @@ You should also verify:
 | 3 | 1 Odd  2 Even  3 Odd |
 | 7 | 1 Odd  2 Even  3 Odd  4 Even  5 Odd  6 Even  7 Odd |
 
-## Challenges and Solutions
-[Optional: Describe any challenges you encountered while creating this script and how you solved them. This could include debugging issues, understanding regular expressions, or Git workflow problems.]
-
 ## Resources
-[List any resources you used (class slides, ChatGPT, etc.). Please refer to the course syllabus for more details on citations.]
+Class slides
 
 ## License
 This project is part of coursework for Chapman University and is intended for educational purposes.
