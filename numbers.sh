@@ -3,7 +3,7 @@
 # Oliver Shepherd
 
 echo "Please enter a positive number:"
-read number
+read -r number
 
 for ((i=1; i<=number; i++))
 do
@@ -14,4 +14,3 @@ do
         echo "$i is odd"
     fi
 done
-
